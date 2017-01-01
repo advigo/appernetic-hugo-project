@@ -1,11 +1,11 @@
 # hostname (and path) to the root eg. http://spf13.com/
-baseurl = "http://www.example.com"
+baseurl = "https://advigo.github.io/"
 
 # Site title
-title = "sitename"
+title = "Advigo"
 
 # Copyright
-copyright = "(c) 2015 yourname."
+copyright = "(c) 2015 Advigo."
 
 # Language
 languageCode = "en-EN"
@@ -36,8 +36,8 @@ disqusShortname = "your_disqus_shortname"
     topic = "topics"
 
 [author]
-    name = "yourname"
-    email = "yourname@example.com"
+    name = "Saso"
+    email = "info@sdvigo.se"
 
 #
 # All parameters below here are optional and can be mixed and matched.
