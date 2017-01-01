@@ -1,10 +1,11 @@
 +++
 title = "home"
-draft = true
-date = "2017-01-01T17:31:59Z"
+draft = false
+date = "2017-01-01T18:41:54Z"
 
 +++
-# Welcome to my first Hugo webpage!
+
+# Welcome to my first Hugo webpage!
 
 ## IT solution in the cloud
 
