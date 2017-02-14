@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Advigo</title>
+    <link>/%22/%22/post/index.xml</link>
+    <description>Recent content in Posts on Advigo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>info@sdvigo.se (Saso)</managingEditor>
+    <webMaster>info@sdvigo.se (Saso)</webMaster>
+    <copyright>(c) 2015 Advigo.</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 18:47:52 +0000</lastBuildDate>
+    <atom:link href="/%22/%22/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>firstpost</title>
+      <link>/%22/%22/2017/01/01/firstpost/</link>
+      <pubDate>Sun, 01 Jan 2017 18:47:52 +0000</pubDate>
+      <author>info@sdvigo.se (Saso)</author>
+      <guid>/%22/%22/2017/01/01/firstpost/</guid>
+      <description>
+
+&lt;h1 id=&#34;use-your-iphone-or-ipad-to-charge-creditcards&#34;&gt;Use your iphone or ipad to charge creditcards.&lt;/h1&gt;
+
+&lt;p&gt;Swedish iZettle has developed a free credit card app for iPhone &amp;amp; iPad to individuals, associations, business people on the go can charge with their iPhone. There has been a lot about it, but feels like it is ripe now to be established on a broad front. Since it has no fixed monthly fees or entry fees so it seems perfect for small business owners.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

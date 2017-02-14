@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Advigo</title>
+    <link>/%22/%22/index.xml</link>
+    <description>Recent content on Advigo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>info@sdvigo.se (Saso)</managingEditor>
+    <webMaster>info@sdvigo.se (Saso)</webMaster>
+    <copyright>(c) 2015 Advigo.</copyright>
+    <lastBuildDate>Sun, 29 Jan 2017 10:02:55 +0000</lastBuildDate>
+    <atom:link href="/%22/%22/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>news</title>
+      <link>/%22/%22/news/</link>
+      <pubDate>Sun, 29 Jan 2017 10:02:55 +0000</pubDate>
+      <author>info@sdvigo.se (Saso)</author>
+      <guid>/%22/%22/news/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;News&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>firstpost</title>
+      <link>/%22/%22/2017/01/01/firstpost/</link>
+      <pubDate>Sun, 01 Jan 2017 18:47:52 +0000</pubDate>
+      <author>info@sdvigo.se (Saso)</author>
+      <guid>/%22/%22/2017/01/01/firstpost/</guid>
+      <description>
+
+&lt;h1 id=&#34;use-your-iphone-or-ipad-to-charge-creditcards&#34;&gt;Use your iphone or ipad to charge creditcards.&lt;/h1&gt;
+
+&lt;p&gt;Swedish iZettle has developed a free credit card app for iPhone &amp;amp; iPad to individuals, associations, business people on the go can charge with their iPhone. There has been a lot about it, but feels like it is ripe now to be established on a broad front. Since it has no fixed monthly fees or entry fees so it seems perfect for small business owners.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>/%22/%22/about/</link>
+      <pubDate>Sun, 01 Jan 2017 18:43:41 +0000</pubDate>
+      <author>info@sdvigo.se (Saso)</author>
+      <guid>/%22/%22/about/</guid>
+      <description>&lt;p&gt;More information will be up soon..&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>home</title>
+      <link>/%22/%22/home/</link>
+      <pubDate>Sun, 01 Jan 2017 18:41:54 +0000</pubDate>
+      <author>info@sdvigo.se (Saso)</author>
+      <guid>/%22/%22/home/</guid>
+      <description>
+
+&lt;h1 id=&#34;welcome-to-my-first-hugo-webpage&#34;&gt;Welcome to my first Hugo webpage!&lt;/h1&gt;
+
+&lt;h2 id=&#34;it-solution-in-the-cloud&#34;&gt;IT solution in the cloud&lt;/h2&gt;
+
+&lt;p&gt;Does your website a facelift or just be easier for you to manage?
+Maybe you&amp;rsquo;re eager to start a blog and tell us about your experiences?
+You may want to do an internal information about your employees or get a cost and functional review of your current website and hosting.
+Do you want to relax on the extra features that t.e.x forums, mailings, web shop mM?
+We offer all these services and training you and your staff.&lt;/p&gt;
+
+&lt;p&gt;Contact us for a free review!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
